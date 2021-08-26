@@ -1,0 +1,27 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 0.06em 0.02em 0.03em red;
+}
+
+p {
+    padding: 15px;
+    text-align: center;
+    text-shadow: 0.06em 0.02em 0.03em orange;
+    background-color: white;
+}
+
+img {
+    box-shadow: 9px 7px 5px DarkSalmon;
+    border-radius: 30px;
+}
+
+footer {
+    text-align: center;
+    background-color: white;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}

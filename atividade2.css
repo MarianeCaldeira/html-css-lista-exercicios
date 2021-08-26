@@ -1,0 +1,38 @@
+h3 {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    border-bottom: 2px solid black;
+}
+
+#alunos {
+    width: 150px;
+}
+
+#prova {
+    width: 100px;
+}
+
+#trabalho {
+    width: 150px;
+}
+
+#nota {
+    text-align: center;
+}
+
+th {
+    font-style: italic;
+}
+
+.cor {
+    background-color: rgb(165, 163, 163);
+}
+
+.verde {
+    color: green;
+}
+
+.red {
+    color: red;
+}
